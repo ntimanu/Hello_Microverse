@@ -3,23 +3,6 @@
   "version": "1.0.0",
   "description": "- [📖 About the Project](#about-project)\r   - [🛠 Built With](#built-with)\r     - [Tech Stack](#tech-stack)\r     - [Key Features](#key-features)\r - [💻 Getting Started](#getting-started)\r   - [Setup](#setup)\r   - [Prerequisites](#prerequisites)\r - [👥 Authors](#authors)\r - [🔭 Future Features](#future-features)\r - [🤝 Contributing](#contributing)\r - [⭐️ Show your support](#support)\r - [🙏 Acknowledgements](#acknowledgements)",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ntimanu/Hello_Microverse.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ntimanu/Hello_Microverse/issues"
-  },
-  "homepage": "https://github.com/ntimanu/Hello_Microverse#readme",
-  "devDependencies": {
-    "hint": "^7.1.8"
-  },
   "dependencies": {
     "abab": "^2.0.6",
     "abbrev": "^1.1.1",
@@ -421,5 +404,22 @@
     "xregexp": "^2.0.0",
     "yallist": "^4.0.0",
     "yauzl": "^2.10.0"
-  }
+  },
+  "devDependencies": {
+    "hint": "^7.1.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntimanu/Hello_Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntimanu/Hello_Microverse/issues"
+  },
+  "homepage": "https://github.com/ntimanu/Hello_Microverse#readme"
 }
